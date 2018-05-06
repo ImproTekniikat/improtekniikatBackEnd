@@ -1,0 +1,95 @@
+
+{"name": "1-2-3",
+  "description": "Pareittain tehdään ensin 1-2-3. Tämän jälkeen korvataan ensin numero 1 jollain äänellä ja liikkeellä. Esim. Tööt-2-3. Sitten korvataan numero 2 ja lopuksi numero 3.",
+  "notice": "Sopii myös yleisölämpäksi",
+  "category": "warmups"}
+{
+  "name": "Hedelmäsalaatti",
+  "description": "Yksi jää keskelle, muut piirissä. Määritellään piiristä, ketkä ovat omenia, banaaneja ja appelsiineja. Keskellä oleva huutaa jonkun hedelmän ja ne nousevat ylös ja etsivät itselleen uuden istumapaikan. Omalle paikalle ei saa palata. Keskellä oleva yrittää ryöstää vapaan paikan. Joka jää ilman paikkaa, jää huutajaksi. Hedelmän sijasta voi huutaa hedelmäsalaatti, jolloin kaikki joutuvat vaihtamaan paikkaa.",
+  "notice": "Kaikki mukana",
+  "category": "warmups"
+}
+{
+  "name": "Gorilla – inkkari – palmu",
+  "description": "Yksi jää keskelle, muut piirissä. Keskellä oleva osoittaa jotain ja sanoo gorilla, inkkari tai palmu. Gorilla hakkaa rintaa ja vierellä olevat nyppivät kirppuja. Inkkari tekee auuu-ääntä ja vierellä olevat melovat kanoonilla. Palmu tanssii ja muut leuhuttavat lehviä.",
+  "notice": "",
+  "category": "warmups"
+}
+{
+  "name": "Läpsy",
+  "description": "Kaikki piirissä. Yhdellä läpsyllä kiertää eteenpäin, kahdella suunta vaihtuu.",
+  "notice": "",
+  "category": "warmups"
+}
+{
+  "name": "Zombie-hippa",
+  "description": "Vaihdetaan nimet. Yksi on zombie ja valitsee kohteen. Kohde voi pelastua zombilta huutamalla toisen nimen, jos huutaa oman nimen tai zombi saa kiinni, muuttuu zombiksi. ",
+  "notice": "",
+  "category": "warmups"
+}
+{
+  "name": "Zoo-kaa-hoo",
+  "description": "Kaikki piirissä. Yksi aloittaa osoittamalla kädet yhdessä toista näyttelijää ja sanoo Zoo! Tämä toinen vastaanottaa viestin sanomalla Kaa! Ja nostamalla kädet yhdessä ylös. Toisen näyttelijän vieressä olevat kaksi näyttelijää sanoo Hoo! Toinen näyttelijä jatkaa viestinvälitystä sanomalla Zoo!",
+  "notice": "Variaatio; ootsaa hookkan",
+  "category": "warmups"
+}
+{
+  "name": "Tule!",
+  "description": "Ollaan isossa ringissä. Leikki alkaa katsekontaktilla. Katsekontaktin osapuolista toinen sanoo 'tule' ja toinen lähtee luvan saatuaan kävelemään parinsa paikalle. Sillä aikaa kun luvan saanut kävelee uudelle paikalle pitää luvan antaneen etsiä itselleen uusi paikka. Tämä tapahtuu etsimällä katsekontakti johonkin toiseen leikkijään. Katsekontaktin synnyttyä sanoo seuraava leikkijä 'tule' ja edellinen lähtee kävelemään hänen paikalleen. Näin leikki jatkuu. Tarkoitus on pitää koko ajan sama nopeus ja vaihdot mahdollisimman sulavina.",
+  "notice": "Vähintään 5 osallistujaa",
+  "category": "warmups"
+}
+{
+  "name": "Kolme jalkaa lattiassa!",
+  "description": "Ohjaajan ohjeesta ryhmä muodostaa installaation, jossa ohjeen mukainen määrä ruumiin osia koskettaa lattiaa. Esimerkiksi: kolme jalkaa ja yksi pää. Tai: kaksi selkää ja kolme polvea. Ryhmä ei saa käyttää puhetta kommunikointiin.",
+  "notice": "",
+  "category": "warmups"
+}
+{
+  "name": "Painon siirto",
+  "description": "Leikkijän menevät tiiviiseen rinkiin, yksi ringin keskellä. Keskellä oleva laittaa silmät kiinni ja alkaa vartalo suorana nojata muihin, jotka ottavat painon vastaan ja lempeästi siirtävät leikkijän painon jollekin toiselle. Näin keskellä oleva huojuu puolelta toisellle. Kaikkien on tietysti oltava tarkkana, ettei kaveria päästetä kaatumaan. Vähitellen voidaan nojautumisia syventää. Kaikkien halukkaiden pitää päästä keskelle kokeilemaan.",
+  "notice": "",
+  "category": "warmups"
+}
+{
+  "name": "Peilirinki",
+  "description": "Asetutaan rinkiin. Ohjaaja määrä jokaiselle jonkun matkittavan, niin että matkijoista syntyy päättymätön ketju. Matkittavan tulisi olla suoraan edessä, jotta matkiminen olisi helppoa, eikä kenekään tarvitsisi kääntyä. Aluksi kaikki asettuvat neutraaliin asentoon, esim jalat lantion levyisessä haara-asennossa, kädet roikkuvat sivuilla. Ohjaajan merkistä ryhdytään matkimaan matkittavan liikkeitä tarkasti. Kukaan ei periaatteessa synnytä liikettä, mutta koska täysin liikkumatta seisominen on mahdotonta, syntyy liike kuitenkin 'jostain'. Leikki jatkuu, kunnes ohjaaja keskeyttää leikin.",
+  "notice": "",
+  "category": "warmups"
+}
+{
+  "name": "Vihamies-suojelija",
+  "description": "Jokainen valitsee ryhmästä salaisesti itselleen vihamiehen ja suojelijan. (Joissakin ryhmissä voi olla syytä korostaa, että kyseessä on vain leikki.) Ohjaajan merkistä kaikki asettuvat niin, että suojelija on itsen ja vihamiehen välissä. Tuloksena on vilkasta liikehdintää, jota ohjaaja voi tehostaa huutamalla: 'Nyt vihamies on tulossa murhaamaan sinut!' Leikki loppuu ohjaajan merkistä.",
+  "notice": "",
+  "category": "warmups"
+}
+{
+  "name": "Kättelyrinki",
+  "description": "Kätellään ja sanotaan \"hyvää huomenta\" tms. -kättä ei saa irroittaa käteltävästä ennen kuin toinen käsi kättelee jotakuta muuta -toisin sanoen pitää ainakin toinen käsi olla jonkun muun kädessä kokoajan -suhtaudutaan positiivisesti muihin",
+  "notice": "",
+  "category": "warmups"
+}
+{
+  "name": "Ilmansuunnat",
+  "description": "Ylös – alas – oikea – vasen. Välillä läpsy reisiin.",
+  "notice": "",
+  "category": "warmups"
+}
+{
+  "name": "Hi harry",
+  "description": "Hi Harry, tell Harry, hi number x",
+  "notice": "",
+  "category": "warmups"
+}
+{
+  "name": "Musiikkisoitin",
+  "description": "Jokaisella oma ääni (instrumentti). Äänet seisovat rivissä. Yksi on kapelimestari ja johtaa orkesteria koskettamalla niitä soittimia jotka ovat soivat kosketuksen ajan.",
+  "notice": "Esim 4 ääntä + kapelimestari",
+  "category": "musical"
+}
+{
+  "name": "Sanansyöttölaulu",
+  "description": "Yksi laulaa, toiset syöttää sanoja",
+  "notice": "Vaativa tekniikka!",
+  "category": "musical"
+}
